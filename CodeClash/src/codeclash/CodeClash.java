@@ -16,6 +16,7 @@ public class CodeClash {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("Hello this is from Ge's fork.");
         // TODO code application logic here
     }
     
